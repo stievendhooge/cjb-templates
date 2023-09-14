@@ -1,4 +1,4 @@
 {
   "test": "schema",
-  "variable": "{{test-variable}}"
+  "variable": "{{{test-variable}}}"
 }
