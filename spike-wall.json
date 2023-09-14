@@ -1,0 +1,55 @@
+{
+  "title": "Spike Paywall Sample",
+  "description": "Sample of a paywall for Spike",
+  "rows": [
+    {
+      "elements": [
+        {
+          "alignment": "{{{title-alignment}}}",
+          "color": "{{{title-color}}}",
+          "size": "{{{title-size}}}",
+          "text": "{{{title-text}}}",
+          "type": "text"
+        },
+      ]
+    },
+    {
+      "elements": [
+        {
+          "alignment": "{{{subtitle-alignment}}}",
+          "color": "{{{subtitle-color}}}",
+          "size": "{{{subtitle-size}}}",
+          "text": "{{{subtitle-text}}}",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "alignment": "{{{image-alignment}}}",
+          "url": "{{{image-url}}}",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "alignment": "{{{button1-alignment}}}",
+          "appearance": "{{{button1-appearance}}}",
+          "callToAction": "{{{button1-cta}}}",
+          "text": "{{{button1-text}}}",
+          "type": "button"
+        },
+        {
+          "alignment": "{{{button2-alignment}}}",
+          "appearance": "{{{button2-appearance}}}",
+          "callToAction": "{{{button1-cta}}}",
+          "text": "{{{button2-text}}}",
+          "type": "button"
+        }
+      ]
+    }
+  ]
+}
