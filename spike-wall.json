@@ -10,7 +10,7 @@
           "size": "{{{title-size}}}",
           "text": "{{{title-text}}}",
           "type": "text"
-        },
+        }
       ]
     },
     {
