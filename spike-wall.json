@@ -45,7 +45,7 @@
         {
           "alignment": "{{{button2-alignment}}}",
           "appearance": "{{{button2-appearance}}}",
-          "callToAction": "{{{button1-cta}}}",
+          "callToAction": "{{{button2-cta}}}",
           "text": "{{{button2-text}}}",
           "type": "button"
         }
